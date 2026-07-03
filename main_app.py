@@ -5,7 +5,6 @@ from io import BytesIO
 
 def main():
     st.set_page_config(page_title="PragyanAI - VVIET Multimedia Hub", layout="wide")
-    st.image("superman-2025-7680x4320-20308.jpg")
     st.title(" PragyanAI Multi-Functional Media Hub")
     
     # Create Tabs for Video, YouTube, and PDF
