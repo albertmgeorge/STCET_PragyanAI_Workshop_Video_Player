@@ -4,7 +4,7 @@ from gtts import gTTS
 from io import BytesIO
 
 def main():
-    st.set_page_config(page_title="PragyanAI - VVIET Multimedia Hub", layout="wide")
+    st.set_page_config(page_title="AIBinil - VVIET Multimedia Hub", layout="wide")
     st.title(" PragyanAI Multi-Functional Media Hub")
     
     # Create Tabs for Video, YouTube, and PDF
